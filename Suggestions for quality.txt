@@ -1,0 +1,6 @@
+Suggestions for User Interface Improvements
+1) User should able to differentiate Server response of the executed apis and other Status Code and its Details
+2) While executing apis, can add one feature to authenticate api like Basic Authentication, API Key, OAuth etc
+3) For POST api can add feature Import to import json data and to execute the api
+4) Can add feature Environments to create variable and to use that variable in the url
+5) Can add these apis as well PUT and DELETE

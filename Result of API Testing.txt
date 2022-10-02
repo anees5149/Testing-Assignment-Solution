@@ -1,0 +1,11 @@
+Only this GET api is working - http://127.0.0.1:8000/
+The other 4 GET apis i.e Read User, Read Questions, Read Alternatives and Read Result are not fetching the data
+The POST api i.e answers is not creating the data
+The status code of all these apis
+http://127.0.0.1:8000/              - 200
+http://127.0.0.1:8000/alternatives/ - 404
+http://127.0.0.1:8000/answers/      - 404
+http://127.0.0.1:8000/question/1    - 500
+http://127.0.0.1:8000/result/1      - 500
+http://127.0.0.1:8000/user          - 500
+
